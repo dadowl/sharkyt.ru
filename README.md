@@ -1,7 +1,7 @@
 # sharkyt.ru
 The first version of the site sharkyt.ru.
 <br /> Now on <a href="http://old.sharkyt.ru/">old.sharkyt.ru</a> for memory and portfolio.
-<br />This is a student site developed at the <a href="https://saikt-online.ru/">"SAIKT"</a> Academy
+<br />This is a student site developed at the <a href="https://saikt-online.ru/">"SAIKT"</a> Academy.
 <br />Created in 2014.
 <br />
 <br />------
